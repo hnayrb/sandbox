@@ -1,1 +1,2 @@
 foo
+here is a new line
